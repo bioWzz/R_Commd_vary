@@ -1,0 +1,4 @@
+# Merge dataframes by colnms
+z=cbind(a,b,c)
+# Merge dataframes by rows
+z=rbind(a,b,c)
